@@ -2,5 +2,9 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+This is extremely ~~boring~~ **fun!!**
+I am learning to
+```
+code
+```
 Use the left arrow to go back!
